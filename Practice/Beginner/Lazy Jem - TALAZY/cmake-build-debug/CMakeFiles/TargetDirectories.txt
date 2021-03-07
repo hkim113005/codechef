@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Lazy Jem - TALAZY/cmake-build-debug/CMakeFiles/Lazy_Jem___TALAZY.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Lazy Jem - TALAZY/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Lazy Jem - TALAZY/cmake-build-debug/CMakeFiles/rebuild_cache.dir

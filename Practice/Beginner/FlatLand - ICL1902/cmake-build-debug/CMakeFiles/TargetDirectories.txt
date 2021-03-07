@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/FlatLand - ICL1902/cmake-build-debug/CMakeFiles/FlatLand___ICL1902.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/FlatLand - ICL1902/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/FlatLand - ICL1902/cmake-build-debug/CMakeFiles/rebuild_cache.dir

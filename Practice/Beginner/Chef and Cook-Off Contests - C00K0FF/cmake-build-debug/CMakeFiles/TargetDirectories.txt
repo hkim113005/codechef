@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Chef and Cook-Off Contests - C00K0FF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Chef and Cook-Off Contests - C00K0FF/cmake-build-debug/CMakeFiles/Chef_and_Cook_Off_Contests___C00K0FF.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Chef and Cook-Off Contests - C00K0FF/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/How much Scholarship - ZCOSCH/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/How much Scholarship - ZCOSCH/cmake-build-debug/CMakeFiles/How_much_Scholarship___ZCOSCH.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/How much Scholarship - ZCOSCH/cmake-build-debug/CMakeFiles/edit_cache.dir

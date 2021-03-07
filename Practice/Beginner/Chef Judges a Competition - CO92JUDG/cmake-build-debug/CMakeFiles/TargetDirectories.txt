@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Chef Judges a Competition - CO92JUDG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Chef Judges a Competition - CO92JUDG/cmake-build-debug/CMakeFiles/Chef_Judges_a_Competition___CO92JUDG.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Chef Judges a Competition - CO92JUDG/cmake-build-debug/CMakeFiles/rebuild_cache.dir

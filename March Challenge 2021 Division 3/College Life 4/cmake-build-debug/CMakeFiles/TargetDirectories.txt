@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Codechef/March Challenge 2021 Division 3/College Life 4/cmake-build-debug/CMakeFiles/College_Life_4.dir
+C:/Users/hyung/CLionProjects/Codechef/March Challenge 2021 Division 3/College Life 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Codechef/March Challenge 2021 Division 3/College Life 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

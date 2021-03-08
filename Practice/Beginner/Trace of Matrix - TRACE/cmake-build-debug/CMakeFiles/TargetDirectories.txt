@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Trace of Matrix - TRACE/cmake-build-debug/CMakeFiles/Trace_of_Matrix___TRACE.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Trace of Matrix - TRACE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Trace of Matrix - TRACE/cmake-build-debug/CMakeFiles/rebuild_cache.dir

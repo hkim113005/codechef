@@ -1,0 +1,3 @@
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Farmer Feb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Farmer Feb/cmake-build-debug/CMakeFiles/Farmer_Feb.dir
+C:/Users/hyung/CLionProjects/Codechef/Practice/Beginner/Farmer Feb/cmake-build-debug/CMakeFiles/rebuild_cache.dir

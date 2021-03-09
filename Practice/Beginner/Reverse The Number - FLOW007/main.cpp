@@ -12,10 +12,12 @@ int main() {
 
         cin >> N;
 
+        while (N % 10 == 0) {
+            N /= 10;
+        }
+
         while (N != 0) {
-            if (N % 10 != 0) {
-                cout << N % 10;
-            }
+            cout << N % 10;
 
             N /= 10;
         }
